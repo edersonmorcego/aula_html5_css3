@@ -1,0 +1,31 @@
+body {
+    background: rgb(133, 172, 245);
+    margin-left: 20px;
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 30px;
+}
+
+h2 {
+    color: rgb(194, 9, 9);
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrão {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 30px;
+}
